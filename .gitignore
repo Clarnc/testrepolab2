@@ -73,3 +73,17 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# React Native
+node_modules/
+android/
+ios/
+*.jsbundle
+*.keystore
+*.log
+buck-out/
+.expo/
+.gradle/
+.idea/
+.vscode/
+build/
